@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "cycletime"
+
+Cycletime.run(ARGV.first)
